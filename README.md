@@ -1,2 +1,2 @@
 # My first "Hello world" reposotory
-I call this "The Mister First".
+I named this "The Mister First".
